@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently working on Java ...
+- 🌱 I’m currently learning something intresting
+- 💬 Ask me about Java, Spring Boot, Programming, Spring WebFLux
+- 📫 How to reach me: www.gorodev.com 
+- ⚡ Fun fact : ?
+
 <!--
 **goro-79/goro-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
