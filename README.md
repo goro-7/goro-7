@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Java ...
-- 🌱 I’m currently learning something intresting
+- 🌱 I’m currently learning something interesting
 - 💬 Ask me about Java, Spring Boot, Programming, Spring WebFLux
 - 📫 How to reach me: www.gorodev.com 
 - ⚡ Fun fact : ?
