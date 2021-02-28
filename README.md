@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+###my websites
+- (berlin-apartments)[https://berlin-apartments.gorodev.com]
+- (personal site)[http://gsalvi.com]
+- (back end web service)[https://www.gorodev.com]
 
 
 - 🔭 I’m currently working on Java ...
