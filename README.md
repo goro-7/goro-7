@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###my websites
+### My websites
 - (berlin-apartments)[https://berlin-apartments.gorodev.com]
 - (personal site)[http://gsalvi.com]
 - (back end web service)[https://www.gorodev.com]
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Java ...
 - 🌱 I’m currently learning something interesting
 - 💬 Ask me about Java, Spring Boot, Programming, Spring WebFLux
-- 📫 How to reach me: www.gorodev.com 
+- 📫 How to reach me: gsalvi.com 
 - ⚡ Fun fact : ?
 
 <!--
