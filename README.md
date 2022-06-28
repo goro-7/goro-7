@@ -1,28 +1,9 @@
 ### Hi there 👋
 
 ### My websites
-- (berlin-apartments)[https://berlin-apartments.gorodev.com]
-- (personal site)[http://gsalvi.com]
-- (back end web service)[https://www.gorodev.com]
-
+- (personal site)[https://gauravsalvi.com]
 
 - 🔭 I’m currently working on Java ...
 - 🌱 I’m currently learning something interesting
-- 💬 Ask me about Java, Spring Boot, Programming, Spring WebFLux
-- 📫 How to reach me: website[http://gsalvi.com]
-- ⚡ Fun fact : ?
-
-<!--
-**goro-79/goro-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Java, Spring Boot, Programming, Spring WebFLux, Distributed Systems
+- 📫 How to reach me: website[https://gauravsalvi.com]
