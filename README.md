@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=goro-7&color=blueviolet)
+
 ### My websites
 - (personal site)[https://gauravsalvi.com]
 
@@ -9,4 +11,3 @@
 - 📫 How to reach me: website[https://gauravsalvi.com]
 
 
-![](https://komarev.com/ghpvc/?username=goro-7)
