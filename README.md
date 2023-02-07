@@ -5,9 +5,8 @@
 ### My websites
 - (personal site)[https://gauravsalvi.com]
 
-- 🔭 I’m currently working on Java ...
-- 🌱 I’m currently learning something interesting
+- 🔭 I’m currently working in JVM Ecosystem ...
+- 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Java, Spring Boot, Programming, Spring WebFLux, Distributed Systems
 - 📫 How to reach me: website[https://gauravsalvi.com]
-
 
