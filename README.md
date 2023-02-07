@@ -8,5 +8,5 @@
 - 🔭 I’m currently working in JVM Ecosystem ...
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Java, Spring Boot, Programming, Spring WebFLux, Distributed Systems
-- 📫 How to reach me: website[https://gauravsalvi.com]
+- 📫 How to reach me: [website](https://gauravsalvi.com)
 
