@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=goro-7&color=blueviolet)
 
 ### My websites
-- (personal site)[https://gauravsalvi.com]
+- [gauravsalvi.com](https://gauravsalvi.com)
 
 - 🔭 I’m currently working in JVM Ecosystem ...
 - 🌱 I’m currently learning Kotlin
